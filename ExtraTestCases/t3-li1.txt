@@ -1,0 +1,35 @@
+3
+33
+e b 1
+e b 2
+e f 3
+d b
+d b
+e f 888
+s
+d f
+d b
+e f 6
+e b 9
+e b -99
+e f -1
+e b 99191919
+d f
+e b 5
+d f
+e f 77
+e b 87
+e b 00
+e f 0
+e b -1
+e f 100
+e b 65
+e b 66
+e f 98
+e b 1111
+e f 09
+e b 87
+e b 7777
+e f 99990
+e b 65
+s
